@@ -1,4 +1,3 @@
-againg
 # QuickSearch
 
 Simple and lightweight in-memory search library for Java 8 web and desktop applications. Single 30KB jar. 100% test coverage. Fast.
